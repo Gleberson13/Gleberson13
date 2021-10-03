@@ -18,7 +18,7 @@
 <div> 
  	 <a href="https://www.linkedin.com/in/gleberson-ferreira-a928b5133/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://codepen.io/gleberson13" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
-  <a href = "mailto:glebersonferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%C71610?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:glebersonferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-C71610?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/glebs__" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  
   </div>

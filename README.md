@@ -20,7 +20,10 @@
   <a href = "mailto:glebersonferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
  </a>
  <a href = "mailto:glebersonferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
- </div>
+  <a href = "https://codepen.io/gleberson13"><img src="https://badges.aleen42.com/src/codepen.svg" target="_blank">
+
+  </div>
+ 
  
    ![Snake animation](https://github.com/Gleberson13/Gleberson13/blob/output/github-contribution-grid-snake.svg)
 

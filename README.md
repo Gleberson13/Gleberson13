@@ -20,7 +20,8 @@
   <a href = "mailto:glebersonferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
  </a>
  <a href = "mailto:glebersonferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  <a href = "https://codepen.io/gleberson13"><img src="https://badges.aleen42.com/src/codepen.svg" target="_blank">
+  <a href = "https://codepen.io/gleberson13"><img src="https://img.shields.io/badge/CodePen-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  </a>
 
   </div>
  

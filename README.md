@@ -16,13 +16,9 @@
   ##
  
 <div> 
- 	  <a href = "https://codepen.io/gleberson13"><img src="https://img.shields.io/badge/-CodePen-%23333?style=for-the-badge&logo=CodePen&logoColor=white" target="_blank"></a>
- 
- <a href = "mailto:glebersonferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
- <a href = "https://www.linkedin.com/in/gleberson-ferreira-a928b5133/"><img src=" https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/glebs__" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:glebersonferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
- <a href="https://www.twitch.tv/glebs__" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  
   </div>
  

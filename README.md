@@ -1,5 +1,5 @@
 ## Olá/ Hello /こんにちは 👨🏽‍💻📱
-<h4>Sou estudante de Análise e Desenvolvimento de Sistemas.</h4>
+<h4>Sou estudante de Análise e Desenvolvimento de Sistemas e venho aperfeiçoando minhas habilidades como desenvolvedor web e JavaScript.</h4>
  <div>
 <div align="center">
   <a href="https://github.com/Gleberson13">
